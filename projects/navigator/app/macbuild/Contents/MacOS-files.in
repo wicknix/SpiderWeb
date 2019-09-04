@@ -1,0 +1,8 @@
+/*.app/***
+/*.dylib
+/certutil
+/spiderweb-bin
+/pk12util
+/ssltunnel
+/xpcshell
+/XUL
