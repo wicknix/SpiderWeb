@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+export CC="gcc -m32"
+export CXX="g++ -m32"
+export LDFLAGS="-latomic"
+# Requires autoconf 2.13 to build
+export AUTOCONF="/usr/bin/autoconf2.13"
+
+ac_add_options --disable-crashreporter
+ac_add_options --disable-tests
+ac_add_options --disable-debug
+ac_add_options --disable-updater
+ac_add_options --disable-webrtc
+ac_add_options --disable-safe-browsing
+ac_add_options --disable-necko-wifi
+ac_add_options --disable-eme
+ac_add_options --disable-gamepad
+ac_add_options --enable-strip
+ac_add_options --enable-install-strip
+ac_add_options --enable-application=projects/navigator
+ac_add_options --enable-optimize
+ac_add_options --enable-release
+ac_add_options --disable-dbus
+ac_add_options --disable-gio
+ac_add_options --disable-pulseaudio
+ac_add_options --disable-jemalloc
+ac_add_options --enable-default-toolkit=cairo-gtk2
+ac_add_options --target=powerpc-linux-gnu
+ac_add_options --host=powerpc-linux-gnu
+
