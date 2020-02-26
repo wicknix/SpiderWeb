@@ -4,7 +4,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 MOZ_APP_BASENAME=SpiderWeb
-MOZ_APP_VENDOR=BinOC
+MOZ_APP_VENDOR=wicknix
 MOZ_APP_NAME=spiderweb
 MOZ_APP_DISPLAYNAME=SpiderWeb
 MOZ_SUITE=1
@@ -12,7 +12,7 @@ BINOC_BOREALIS=1
 MOZ_BRANDING_DIRECTORY=projects/navigator/branding/unofficial
 MOZ_OFFICIAL_BRANDING_DIRECTORY=projects/navigator/branding/unofficial
 MOZ_EXTENSIONS_DEFAULT=" gio"
-MOZ_UPDATER=1
+MOZ_UPDATER=
 # This should usually be the same as the value MAR_CHANNEL_ID.
 # If more than one ID is needed, then you should use a comma separated list
 # of values.
