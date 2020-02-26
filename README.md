@@ -1,6 +1,6 @@
 # Building SpiderWeb
 
-* Download UXP4PPC https://github.com/wicknix/UXP4PPC32 (Unified XUL Platform) modified for PowerPC and extract 
+* Download UXP4PPC https://github.com/wicknix/UXP4PPC32/archive/v2.2.tar.gz (Unified XUL Platform) modified for PowerPC and extract 
   it's contents, rename it to mozilla and drop it into this directory.
 * Read the build instructions within the /mozilla directory to bypass endianness issues with the icu.dat file.
 * Run ./mach build
