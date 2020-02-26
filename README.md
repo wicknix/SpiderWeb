@@ -6,4 +6,4 @@
 * Run ./mach build
 * Reread those build instructions and copy the included icu.dat before ./mach run or ./mach package
 
-**See the WIKI tab for prebuilt binaries and extensions
+***See the WIKI tab for prebuilt binaries and extensions***
