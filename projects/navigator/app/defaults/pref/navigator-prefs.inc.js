@@ -68,7 +68,7 @@ pref("browser.search.opensidebarsearchpanel", false);
 pref("browser.search.opentabforcontextsearch", true);
 
 // Send ping to the server to update.
-pref("browser.search.update", true);
+pref("browser.search.update", false);
 
 // Disable logging for the search service update system by default.
 pref("browser.search.update.log", false);
@@ -174,7 +174,7 @@ pref("browser.tabs.tabClipWidth", 140);
 // 1  on all tabs until tabClipWidth is reached, then active tab only
 // 2  no close buttons at all
 // 3  at the end of the tabstrip
-pref("browser.tabs.closeButtons", 3);
+pref("browser.tabs.closeButtons", 1);
 
 // Mouse wheel action when over the tab bar:
 // false  The mouse wheel scrolls the whole tab bar like Firefox (default).
