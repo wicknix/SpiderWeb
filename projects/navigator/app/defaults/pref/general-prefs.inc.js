@@ -48,7 +48,7 @@ pref("general.autoScroll", true);
 pref("general.useragent.compatMode.firefox", false);
 pref("general.useragent.compatMode.gecko", false);
 pref("general.useragent.complexOverride.moodle", false); // bug 797703; bug 815801
-pref("general.useragent.override", "SpiderWeb/2.1.0 (Macintosh; Intel Mac OS X; Mobile)");
+pref("general.useragent.override", "SpiderWeb/2.2.1 (Macintosh; Intel Mac OS X; Mobile)");
 
 #ifdef XP_UNIX
 pref("general.autoScroll", false);
