@@ -1,4 +1,6 @@
-# SpiderWeb is a semi portable browser similar in look and feel to the old SeaMonkey
+# SpiderWeb browser 
+* SpiderWeb is a semi portable browser similar in look and feel to the old SeaMonkey
+* It is built upon many varients of Mozilla community code depending on platform
 * It will build and run on i386/x86_64 OSX and Linux along with PowerPC Linux
 
 # Building SpiderWeb for PowerPC Linux
