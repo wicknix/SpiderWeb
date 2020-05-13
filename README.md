@@ -10,9 +10,9 @@
 * Run ./mach build
 * Reread those build instructions and copy the included icu.dat before ./mach run or ./mach package
 
-***See the WIKI tab for prebuilt binaries and extensions***
+***See the WIKI tab for prebuilt powerpc binaries and extensions***
 
 # Source for the 10.6 Snow Leopard specific build
 https://drive.google.com/file/d/1QYFqLm30OdIOmp6tI05WFCw6_8-etZ5D/view?usp=sharing
-# Binary for 10.6 Snow Leopard
-https://drive.google.com/file/d/1TqDmki0A6TOw6JT_-Vy5N6wIvBD4S9YL/view?usp=sharing
+# Binaries for 10.6 & 10.7+
+https://randommacstuff.blogspot.com/p/spiderweb-browser.html
