@@ -10,10 +10,11 @@
 * Run ./mach build
 * Reread those build instructions and copy the included icu.dat before ./mach run or ./mach package
 
+***See the WIKI tab for prebuilt powerpc binaries***
+
 # OS X 10.7+ versions are built upon the unified xul platform
 * https://github.com/MoonchildProductions/uxp
 
-***See the WIKI tab for prebuilt powerpc binaries and extensions***
 
 # Source for the 10.6 Snow Leopard specific build (based on 52.9-esr)
 https://drive.google.com/file/d/1QYFqLm30OdIOmp6tI05WFCw6_8-etZ5D/view?usp=sharing
