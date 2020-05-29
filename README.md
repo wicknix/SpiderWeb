@@ -17,6 +17,6 @@
 
 
 # Source for the 10.6 Snow Leopard specific build (based on 52.9-esr)
-https://drive.google.com/file/d/1QYFqLm30OdIOmp6tI05WFCw6_8-etZ5D/view?usp=sharing
+* https://drive.google.com/file/d/1QYFqLm30OdIOmp6tI05WFCw6_8-etZ5D/view?usp=sharing
 # Binaries for 10.6 & 10.7+
-https://randommacstuff.blogspot.com/p/spiderweb-browser.html
+* https://randommacstuff.blogspot.com/p/spiderweb-browser.html
