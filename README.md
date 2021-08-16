@@ -13,6 +13,6 @@
 ***See the WIKI tab for prebuilt PowerPC Linux binaries***
 
 # Source for the 10.6 Snow Leopard build
-* https://drive.google.com/file/d/1CC0fsnn-svKmhw5lwOrLMubHvzgcuk2s/view?usp=sharing
+* https://github.com/wicknix/InterWebSnow
 # Binaries for OS X 10.6+
 * https://randommacstuff.blogspot.com/p/spiderweb-browser.html
